@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKYdAPV2uvoJPLTeH5T+YgoBmSQiXELv7KY7ySPjP/yVdq3BW0eS9ow/JFbB9Jx1baj5MZbivH477rHoir8ydQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\louag\\source\\repos\\tutoEventsAndDelegates\\tutoEventsAndDelegates\\tutoEventsAndDelegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
